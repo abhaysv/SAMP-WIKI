@@ -13,6 +13,7 @@ This page contains every available skin, to be used with
 :::note
 These skins (3, 4, 5, 6, 8, 42, 65, 86, 119, 149, 208, 273, 289) were
 added in SA-MP 0.3d RC5 and will not work in earlier versions!
+SkinID 74 appears as a CJ in SA-MP.
 :::
 
 | Skin ID | Preview                         | Skin Model Name                          | Singleplayer Location                              | Gender |
@@ -91,7 +92,7 @@ added in SA-MP 0.3d RC5 and will not work in earlier versions!
 | 71      | ![](/images/skins/Skin_71.png)  | Security Guard                           | Airport Guard Boxes                                | Male   |
 | 72      | ![](/images/skins/Skin_72.png)  | Hippy                                    | San Andreas                                        | Male   |
 | 73      | ![](/images/skins/Skin_73.png)  | Hippy                                    | San Fierro                                         | Male   |
-| 74      | ![](/images/skins/Skin_74.png)  | -                                        | -                                                  | -      |
+| 74      | ![](/images/skins/Skin_0.png)   | Carl "CJ" Johnson (Main Character)       | Anywhere                                           | Male   |
 | 75      | ![](/images/skins/Skin_75.png)  | Prostitute                               | San Andreas                                        | Female |
 | 76      | ![](/images/skins/Skin_76.png)  | Stewardess                               | San Andreas                                        | Female |
 | 77      | ![](/images/skins/Skin_77.png)  | Homeless                                 | San Andreas                                        | Female |
